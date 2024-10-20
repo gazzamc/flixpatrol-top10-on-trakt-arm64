@@ -59,6 +59,15 @@
       "type": "both"
     }
   ],
+  "FlixPatrolMostWatched": [
+    {
+      "enabled": true,
+      "privacy": "public",
+      "year": 2024,
+      "limit": 50,
+      "type": "both"
+    }
+  ],
   "Trakt": {
     "saveFile": "./config/.trakt",
     "clientId": "You need to replace this client ID",
